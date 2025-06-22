@@ -1,0 +1,17 @@
+{
+  "minecraft": {
+    "host": "ip_do_servidor",
+    "port": 25565,
+    "username": "MattysStuff",
+    "password": "",
+    "version": false
+  },
+  "stash": {
+    "x": 100,
+    "y": 64,
+    "z": 100
+  },
+  "developer": {
+    "username": "MattysStuff"
+  }
+}
